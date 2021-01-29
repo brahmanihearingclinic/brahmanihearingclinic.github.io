@@ -1,0 +1,259 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+hr{
+  width: 10%;
+}
+/* Title Section */
+#title{
+  background-color: #F58634;
+  color: #fff;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.navbar-logo{
+  width: 150px;
+  padding: 0;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  padding: 0;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+.title-image{
+  width: 100%;
+  position: absolute;
+  right: 0;
+}
+
+/* Services List*/
+#services-list{
+  background-color: #F58634;
+  padding: 0 10% 5%;
+  text-align: center;
+}
+.service-list-items{
+  color: #fff;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+/* Services */
+#services{
+  padding: 7% 15%;
+}
+.services-heading{
+  text-align: center;
+  color: #F58634;
+}
+.services-offered-heading{
+  color: #F58634;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+.disorder-heading{
+  color: #F58634;
+}
+
+/* Visit Us */
+#visit-us{
+  text-align: center;
+  color: #fff;
+  background-color: #F58634;
+  padding: 7% 15%;
+}
+.visit-us-link{
+  color: #fff;
+}
+
+/* Hearing Loss */
+#hearing-loss-info{
+  background-color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+  line-height: 1.5;
+}
+.hearing-loss-heading{
+  color: #F58634;
+}
+.hearing-loss-sub{
+  color: #F58634;
+}
+.list-causes{
+  text-align: left;
+}
+/* Testimonials Section */
+#testimonials{
+  text-align: center;
+  background-color: #F58634;
+  color: #fff;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+/* Gallery */
+#gallery{
+  text-align: center;
+  padding: 0 15% 7%;
+  background-color: #F58634;
+}
+.gallery-heading{
+  color: #fff;
+}
+.gallery-heading-sub{
+  color: #fff;
+}
+.carousel-item{
+
+}
+.inauguration-image{
+  width: 80%;
+  margin: 20px;
+}
+#visit-us-gallery{
+  background-color: #fff;
+  text-align: center;
+  color: #F58634;
+  padding: 7% 15%;
+}
+.visit-us-heading-gallery
+{
+  color: #F58634;
+}
+.visit-us-link-gallery{
+  color: #F58634;
+}
+#footer-gallery{
+  background-color: #F58634;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon-gallery{
+  color: #fff;
+  margin: 20px 10px;
+}
+
+/* Features Section */
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: #F58634;
+  margin-bottom: 1rem;
+}
+
+/* Hearing Aids Types */
+#hearing-aid-types{
+  background-color: #F58634;
+  text-align: center;
+  padding: 7% 15%;
+  color: #fff;
+}
+.heading-types{
+
+}
+.hearing-aids-types-names{
+  font-size: 0.9375rem;
+}
+.hearing-aid-box{
+  padding-top: 5%;
+}
+.hearing-aid-images{
+  width: 80%;
+  border-radius: 100%;
+  padding-bottom: 5%;
+}
+
+/* Why Choose Us? */
+#why-choose-us{
+  padding: 7% 15%;
+  text-align: center;
+}
+.heading-choose-us{
+  color: #F58634;
+}
+
+/* CTA Section */
+#cta{
+  background-color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+.cta-heading{
+  color: #F58634;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.cta-content{
+  color: #F58634;
+}
+
+/* Footer Section */
+#footer{
+  background-color: #fff;
+  color: #F58634;
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon{
+  margin: 20px 10px;
+  color: #F58634;
+}
+#footer-index{
+  background-color: #F58634;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon-index{
+  margin: 20px 10px;
+  color: #fff;
+}
+
+@media (max-width: 1028px){
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+  }
+}
