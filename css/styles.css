@@ -223,8 +223,18 @@ hr{
   font-size: 3.5rem;
   line-height: 1.5;
 }
+.cta-heading-address{
+  color: #F58634;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
 .cta-content{
   color: #F58634;
+}
+th, td {
+  padding: 15px;
 }
 
 /* Footer Section */
